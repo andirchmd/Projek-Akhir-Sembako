@@ -1,0 +1,19 @@
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\bin\Debug\Project Akhir Sembako.exe.config
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\bin\Debug\Project Akhir Sembako.exe
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\bin\Debug\Project Akhir Sembako.pdb
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\bin\Debug\Project Akhir Sembako.xml
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\bin\Debug\mysql.data.dll
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.vbproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.Resources.resources
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.vbproj.GenerateResource.cache
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.vbproj.CopyComplete
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.exe
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.xml
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project Akhir Sembako.pdb
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.InitialLoad.resources
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.FormLogin.resources
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.MainMenu.resources
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.Pembelian.resources
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.Pendataan.resources
+C:\Users\Asus\Documents\Universitas Mulawarman\Semester 4\PVisual\Praktikum\Project Akhir Sembako\Project Akhir Sembako\obj\Debug\Project_Akhir_Sembako.FormRegis.resources
